@@ -7,19 +7,19 @@ A responsive expense management dashboard built using HTML, CSS and Bootstrap 5.
 This project was created to practice Bootstrap's layout system, components, utilities and responsive design without using JavaScript.
 
 🚀 Features
-Responsive navigation bar
-Financial summary cards
-Monthly budget progress bars
-Recent transactions table
-Transaction category badges
-Responsive table layout
-Profile information form
-Text, email and password inputs
-Select dropdown
-Textarea
-Checkbox and radio buttons
-Bootstrap buttons and alerts
-Responsive grid layout
+Responsive navigation bar,
+Financial summary cards,
+Monthly budget progress bars,
+Recent transactions table,
+Transaction category badges,
+Responsive table layout,
+Profile information form,
+Text, email and password inputs,
+Select dropdown,
+Textarea,
+Checkbox and radio buttons,
+Bootstrap buttons and alerts,
+Responsive grid layout,
 
 
 
